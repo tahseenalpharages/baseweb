@@ -185,7 +185,7 @@
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.8.0",
     "universal-cookie": "^4.0.2",
-    "webpack": "^5.49.0",
+    "webpack": "^5.35.0",
     "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.7.2"
   },
